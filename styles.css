@@ -68,7 +68,7 @@ button {
     position: absolute;
     height: 100%;
     width: 30%;
-    background-image: url(/art-gallery-website/art-gallery-website/starter-code/assets/icon-arrow-right.svg);
+    background-image: url(assets/icon-arrow-right.svg);
     background-repeat: no-repeat;
     background-position: center;
     top: 0;
@@ -89,7 +89,7 @@ button {
     position: absolute;
     height: 100%;
     width: 30%;
-    background-image: url(/art-gallery-website/art-gallery-website/starter-code/assets/icon-arrow-left.svg);
+    background-image: url(assets/icon-arrow-left.svg);
     background-repeat: no-repeat;
     background-position: center;
     top: 0;
